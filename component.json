@@ -4,7 +4,10 @@
   "description": "",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {"component/underscore":"*"},
+  "dependencies": {
+  	"component/underscore":"*",
+  	"component/jquery": "*"
+   },
   "development": {},
   "scripts":["index.js","backbone.js"],
   "license": "MIT"
